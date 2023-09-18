@@ -15,15 +15,25 @@
 // System.Console.WriteLine(summa);
 // // O(n)
 
-// O(n^2)
+// O(n^2 / 2)
 Console.Clear();
 int n  = Convert.ToInt32(Console.ReadLine());
-for(int i = 1; i <= n; i++)
+int[,] matrix = new int[n, n];
+for(int i = 0; i < n; i++)
 {
-    for(int j = 1; j <= n; j++)
+    for(int j = 0; j < n; j++)
     {
-        if(j != 5) System.Console.Write(i * j + "\t");
-        else System.Console.Write(i * j);
+        matrix[i, j] = (i + 1) * (j + 1);
+        matrix[i, j] = (i + 1) * (j + 1);
+    }
+    System.Console.WriteLine();
+}
+for(int i = 0; i < n; i++)
+{
+    for(int j = 0; j < n; j++)
+    {
+        System.Console.Write(matrix[i,j]);
+        System.Console.Write(" ");
     }
     System.Console.WriteLine();
 }
