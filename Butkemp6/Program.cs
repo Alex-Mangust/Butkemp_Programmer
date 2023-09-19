@@ -39,15 +39,28 @@
 // System.Console.WriteLine($"[{string.Join(", ", array)}]");
 
 
+Console.Clear();
 System.Console.Write("Введите кол-во элементов: ");
 int n = int.Parse(Console.ReadLine()!);
 int[] array = new int[n];
+
+bool Check(int[] array)  // Пример юнит-теста (Проверяет, отсортирован ли массив)
+{
+    int size = array.Length - 1;
+    for(int i = 0; i < size; i++)
+    {
+        if(array[i] > array[i+1]) return false;
+    }
+    return true;
+}
+
 for(int i = 0; i < array.Length; i++)
     array[i] = Random.Shared.Next(100);
 System.Console.WriteLine($"[{string.Join(", ", array)}]");
+System.Console.WriteLine(Check(array));
 for(int k = 0; k < array.Length - 1; k++)
 {
-    for(int i = 0; i < array.Length - 1; i++)
+    for(int i = 0; i < array.Length - 1 - k; i++)
     {
         if(array[i] > array[i+1])
         {
@@ -58,6 +71,7 @@ for(int k = 0; k < array.Length - 1; k++)
     }
 }
 System.Console.WriteLine($"[{string.Join(", ", array)}]");
+System.Console.WriteLine(Check(array));
 
 // int j = 0;
 // for(j = 0; j < n; j++)
