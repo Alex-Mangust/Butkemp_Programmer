@@ -1,0 +1,14 @@
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp4\obj\Debug\net7.0\Butkemp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp4\obj\Debug\net7.0\Butkemp4.AssemblyInfoInputs.cache
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp4\obj\Debug\net7.0\Butkemp4.AssemblyInfo.cs
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp4\obj\Debug\net7.0\Butkemp4.csproj.CoreCompileInputs.cache
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp4\bin\Debug\net7.0\Butkemp4.exe
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp4\bin\Debug\net7.0\Butkemp4.deps.json
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp4\bin\Debug\net7.0\Butkemp4.runtimeconfig.json
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp4\bin\Debug\net7.0\Butkemp4.dll
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp4\bin\Debug\net7.0\Butkemp4.pdb
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp4\obj\Debug\net7.0\Butkemp4.dll
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp4\obj\Debug\net7.0\refint\Butkemp4.dll
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp4\obj\Debug\net7.0\Butkemp4.pdb
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp4\obj\Debug\net7.0\Butkemp4.genruntimeconfig.cache
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp4\obj\Debug\net7.0\ref\Butkemp4.dll
