@@ -52,3 +52,4 @@ InputArray(array);
 Console.WriteLine($"Начальный массив: [{string.Join(", ", array)}]");
 sortVibor(array);
 Console.WriteLine($"Конечный массив: [{string.Join(", ", array)}]");
+
