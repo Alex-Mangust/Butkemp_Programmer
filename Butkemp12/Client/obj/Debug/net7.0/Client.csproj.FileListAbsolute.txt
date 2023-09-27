@@ -1,0 +1,14 @@
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp12\Client\bin\Debug\net7.0\Client.exe
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp12\Client\bin\Debug\net7.0\Client.deps.json
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp12\Client\bin\Debug\net7.0\Client.runtimeconfig.json
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp12\Client\bin\Debug\net7.0\Client.dll
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp12\Client\bin\Debug\net7.0\Client.pdb
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp12\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp12\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp12\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp12\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp12\Client\obj\Debug\net7.0\Client.dll
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp12\Client\obj\Debug\net7.0\refint\Client.dll
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp12\Client\obj\Debug\net7.0\Client.pdb
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp12\Client\obj\Debug\net7.0\Client.genruntimeconfig.cache
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp12\Client\obj\Debug\net7.0\ref\Client.dll
