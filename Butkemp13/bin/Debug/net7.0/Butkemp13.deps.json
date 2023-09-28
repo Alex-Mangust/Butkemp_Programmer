@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Butkemp13/1.0.0": {
+        "runtime": {
+          "Butkemp13.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Butkemp13/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

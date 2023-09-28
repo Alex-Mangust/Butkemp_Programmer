@@ -1,0 +1,14 @@
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp13\bin\Debug\net7.0\Butkemp13.exe
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp13\bin\Debug\net7.0\Butkemp13.deps.json
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp13\bin\Debug\net7.0\Butkemp13.runtimeconfig.json
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp13\bin\Debug\net7.0\Butkemp13.dll
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp13\bin\Debug\net7.0\Butkemp13.pdb
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp13\obj\Debug\net7.0\Butkemp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp13\obj\Debug\net7.0\Butkemp13.AssemblyInfoInputs.cache
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp13\obj\Debug\net7.0\Butkemp13.AssemblyInfo.cs
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp13\obj\Debug\net7.0\Butkemp13.csproj.CoreCompileInputs.cache
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp13\obj\Debug\net7.0\Butkemp13.dll
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp13\obj\Debug\net7.0\refint\Butkemp13.dll
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp13\obj\Debug\net7.0\Butkemp13.pdb
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp13\obj\Debug\net7.0\Butkemp13.genruntimeconfig.cache
+C:\Users\Саня\Desktop\Учеба\Буткемп программирование\Butkemp_Programmer\Butkemp13\obj\Debug\net7.0\ref\Butkemp13.dll
