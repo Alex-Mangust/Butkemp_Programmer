@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<hml lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>{{ title }}</title>
+        <!-- <link href="./style/st.css" rel="stylesheet"/> -->
+    </head>
+    <style>
+        html {
+            background-color: #eb0707;
+        }
+    </style>
+
+    <body>
+        {% block content %}
+        <html><b>Всех рад видеть!!!<b></html>
+
+        <a href="/students"><button>Показать список студентов</button></a>
+        {% endblock%}
+    </body>
+</hml>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Саня\\Desktop\\Учеба\\Буткемп программирование\\Butkemp_Programmer\\Butkemp12\\Client\\Client.csproj": {}
+    "C:\\Users\\Саня\\Desktop\\Учеба\\Основной блок\\Буткемп программирование\\Butkemp_Programmer\\Butkemp12\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Саня\\Desktop\\Учеба\\Буткемп программирование\\Butkemp_Programmer\\Butkemp12\\Client\\Client.csproj": {
+    "C:\\Users\\Саня\\Desktop\\Учеба\\Основной блок\\Буткемп программирование\\Butkemp_Programmer\\Butkemp12\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Саня\\Desktop\\Учеба\\Буткемп программирование\\Butkemp_Programmer\\Butkemp12\\Client\\Client.csproj",
+        "projectUniqueName": "C:\\Users\\Саня\\Desktop\\Учеба\\Основной блок\\Буткемп программирование\\Butkemp_Programmer\\Butkemp12\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\Users\\Саня\\Desktop\\Учеба\\Буткемп программирование\\Butkemp_Programmer\\Butkemp12\\Client\\Client.csproj",
+        "projectPath": "C:\\Users\\Саня\\Desktop\\Учеба\\Основной блок\\Буткемп программирование\\Butkemp_Programmer\\Butkemp12\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\Саня\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Саня\\Desktop\\Учеба\\Буткемп программирование\\Butkemp_Programmer\\Butkemp12\\Client\\obj\\",
+        "outputPath": "C:\\Users\\Саня\\Desktop\\Учеба\\Основной блок\\Буткемп программирование\\Butkemp_Programmer\\Butkemp12\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Саня\\AppData\\Roaming\\NuGet\\NuGet.Config",
