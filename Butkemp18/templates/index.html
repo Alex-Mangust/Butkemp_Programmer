@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block title %} {{ super() }} - {{ title }} {% endblock %}
+
+{% block content %}
+
+<h1>Привет, {{ name }}</h1>
+{% if number == 1 %}
+<p> Вы ввели 1</p>
+{% elif number == 2 %}
+<p> Вы ввели 2</p>
+{% elif number == 3 %}
+<p> Вы ввели 3</p>
+{% elif number == 4 %}
+<p> Вы ввели 4</p>
+{% elif number == 5 %}
+<p> Вы ввели 5</p>
+{% else %}
+<p> Вы ввели что-то другое</p>
+{% endif %}
+<h3></h3>
+<a href="/test/">TEST</a>
+<br>
+<br>
+{% for item in temp_list %}
+<p> {{ item }} </p>
+{% endfor %}
+<br>
+
+{% endblock %}
