@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Саня\\Desktop\\Учеба\\Буткемп программирование\\Butkemp_Programmer\\Butkemp4\\Butkemp4.csproj": {}
+    "C:\\Users\\Саня\\Desktop\\Учеба\\Основной блок\\Буткемп программирование\\Butkemp_Programmer\\Butkemp4\\Butkemp4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Саня\\Desktop\\Учеба\\Буткемп программирование\\Butkemp_Programmer\\Butkemp4\\Butkemp4.csproj": {
+    "C:\\Users\\Саня\\Desktop\\Учеба\\Основной блок\\Буткемп программирование\\Butkemp_Programmer\\Butkemp4\\Butkemp4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Саня\\Desktop\\Учеба\\Буткемп программирование\\Butkemp_Programmer\\Butkemp4\\Butkemp4.csproj",
+        "projectUniqueName": "C:\\Users\\Саня\\Desktop\\Учеба\\Основной блок\\Буткемп программирование\\Butkemp_Programmer\\Butkemp4\\Butkemp4.csproj",
         "projectName": "Butkemp4",
-        "projectPath": "C:\\Users\\Саня\\Desktop\\Учеба\\Буткемп программирование\\Butkemp_Programmer\\Butkemp4\\Butkemp4.csproj",
+        "projectPath": "C:\\Users\\Саня\\Desktop\\Учеба\\Основной блок\\Буткемп программирование\\Butkemp_Programmer\\Butkemp4\\Butkemp4.csproj",
         "packagesPath": "C:\\Users\\Саня\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Саня\\Desktop\\Учеба\\Буткемп программирование\\Butkemp_Programmer\\Butkemp4\\obj\\",
+        "outputPath": "C:\\Users\\Саня\\Desktop\\Учеба\\Основной блок\\Буткемп программирование\\Butkemp_Programmer\\Butkemp4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Саня\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,14 @@
+C:\Users\Саня\Desktop\Учеба\Основной блок\Буткемп программирование\Butkemp_Programmer\Butkemp19\obj\Debug\net7.0\Butkemp19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саня\Desktop\Учеба\Основной блок\Буткемп программирование\Butkemp_Programmer\Butkemp19\obj\Debug\net7.0\Butkemp19.AssemblyInfoInputs.cache
+C:\Users\Саня\Desktop\Учеба\Основной блок\Буткемп программирование\Butkemp_Programmer\Butkemp19\obj\Debug\net7.0\Butkemp19.AssemblyInfo.cs
+C:\Users\Саня\Desktop\Учеба\Основной блок\Буткемп программирование\Butkemp_Programmer\Butkemp19\obj\Debug\net7.0\Butkemp19.csproj.CoreCompileInputs.cache
+C:\Users\Саня\Desktop\Учеба\Основной блок\Буткемп программирование\Butkemp_Programmer\Butkemp19\bin\Debug\net7.0\Butkemp19.exe
+C:\Users\Саня\Desktop\Учеба\Основной блок\Буткемп программирование\Butkemp_Programmer\Butkemp19\bin\Debug\net7.0\Butkemp19.deps.json
+C:\Users\Саня\Desktop\Учеба\Основной блок\Буткемп программирование\Butkemp_Programmer\Butkemp19\bin\Debug\net7.0\Butkemp19.runtimeconfig.json
+C:\Users\Саня\Desktop\Учеба\Основной блок\Буткемп программирование\Butkemp_Programmer\Butkemp19\bin\Debug\net7.0\Butkemp19.dll
+C:\Users\Саня\Desktop\Учеба\Основной блок\Буткемп программирование\Butkemp_Programmer\Butkemp19\bin\Debug\net7.0\Butkemp19.pdb
+C:\Users\Саня\Desktop\Учеба\Основной блок\Буткемп программирование\Butkemp_Programmer\Butkemp19\obj\Debug\net7.0\Butkemp19.dll
+C:\Users\Саня\Desktop\Учеба\Основной блок\Буткемп программирование\Butkemp_Programmer\Butkemp19\obj\Debug\net7.0\refint\Butkemp19.dll
+C:\Users\Саня\Desktop\Учеба\Основной блок\Буткемп программирование\Butkemp_Programmer\Butkemp19\obj\Debug\net7.0\Butkemp19.pdb
+C:\Users\Саня\Desktop\Учеба\Основной блок\Буткемп программирование\Butkemp_Programmer\Butkemp19\obj\Debug\net7.0\Butkemp19.genruntimeconfig.cache
+C:\Users\Саня\Desktop\Учеба\Основной блок\Буткемп программирование\Butkemp_Programmer\Butkemp19\obj\Debug\net7.0\ref\Butkemp19.dll

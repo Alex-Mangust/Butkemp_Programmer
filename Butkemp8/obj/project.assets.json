@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Саня\\Desktop\\Учеба\\Буткемп программирование\\Butkemp_Programmer\\Butkemp8\\Butkemp8.csproj",
+      "projectUniqueName": "C:\\Users\\Саня\\Desktop\\Учеба\\Основной блок\\Буткемп программирование\\Butkemp_Programmer\\Butkemp8\\Butkemp8.csproj",
       "projectName": "Butkemp8",
-      "projectPath": "C:\\Users\\Саня\\Desktop\\Учеба\\Буткемп программирование\\Butkemp_Programmer\\Butkemp8\\Butkemp8.csproj",
+      "projectPath": "C:\\Users\\Саня\\Desktop\\Учеба\\Основной блок\\Буткемп программирование\\Butkemp_Programmer\\Butkemp8\\Butkemp8.csproj",
       "packagesPath": "C:\\Users\\Саня\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Саня\\Desktop\\Учеба\\Буткемп программирование\\Butkemp_Programmer\\Butkemp8\\obj\\",
+      "outputPath": "C:\\Users\\Саня\\Desktop\\Учеба\\Основной блок\\Буткемп программирование\\Butkemp_Programmer\\Butkemp8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Саня\\AppData\\Roaming\\NuGet\\NuGet.Config",
